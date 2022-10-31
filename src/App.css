@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  width: 50%;
+ height: 80vh;
+  background-color:#FF5A5F;
+  margin-left: 20rem;
+}
+.App h1{
+  font-size: 40px;
+  color: white;
+  padding-top: 5rem;
+  margin-left: 8rem;
+  margin-right: 8rem;
+}
+.App img{
+  height: 60px ;
+  width: 60px;
+  padding-top: 25px;
+}
+.App p{
+  color: white;
+  padding-top: 8px;
+}
+
+
+
+
